@@ -1,0 +1,8 @@
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/"
+                       xmlns:moz="http://www.mozilla.org/2006/browser/search/">
+  <ShortName>Duden</ShortName>
+  <Description>Suchen im Online-W&amp;ouml;rterbuch von Duden.</Description>
+  <InputEncoding>UTF-8</InputEncoding>
+  <Image width="180" height="180" type="image/png">https://www.duden.de/sites/default/res/apple-touch-icon/180x180.png</Image>
+  <Url type="text/html" template="https://www.duden.de/suchen/dudenonline/{searchTerms}?search_api_fulltext=&amp;page={startPage?}"></Url>
+</OpenSearchDescription>
